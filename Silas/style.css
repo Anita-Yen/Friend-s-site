@@ -88,10 +88,11 @@ header{
     color: whitesmoke;
  }
  .mine img{
-    height: 450px;
-    width: 400px;
+    height: 350px;
+    width: 300px;
     float: left;
     margin-right:50px ;
+    margin-left: 20px;
     border-radius: 50%;
   
     box-shadow:0 0 1rem rgb(250, 108, 7);
@@ -156,7 +157,7 @@ figcaption{
    left: 30%;
    height: 500px;
    width: 500px;
-   background-image: url(download.jpeg);
+   background-image: url(pexels-photo-268966.jpeg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
